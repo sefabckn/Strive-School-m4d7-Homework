@@ -6,7 +6,7 @@ import SingleBook from './components/SingleBook'
 import BookList from './components/BookList'
 import fantasyBooks from './fantasyBooks.json'
 
-function App() {
+const App= () =>{
   return (
     <div className="App">
       <header className="App-header">
